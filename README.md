@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-[![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app.vercel.app/api?username=vmsantos)](https://github.com/vmsantos/github-readme-stats)
+[![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app/api?username=vmsantos)](https://github.com/vmsantos/github-readme-stats)
 
-![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app.vercel.app/api?username=vmsantos&count_private=true)
+![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app/api?username=vmsantos&count_private=true)
 
-![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app.vercel.app/api?username=vmsantos&show_icons=true)
+![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app/api?username=vmsantos&show_icons=true)
 
-![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app.vercel.app/api?username=vmsantos&show_icons=true&theme=radical)
+![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app/api?username=vmsantos&show_icons=true&theme=radical)
 
 
 <!--
