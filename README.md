@@ -1,15 +1,18 @@
 ### Hi there 👋
 
+
+
+![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app/api?username=vmsantos&show_icons=true&theme=radical&count_private=true)
+
+
+<!--
+
 [![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app/api?username=vmsantos)](https://github.com/vmsantos/github-readme-stats)
 
 ![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app/api?username=vmsantos&count_private=true)
 
 ![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app/api?username=vmsantos&show_icons=true)
 
-![vmsantos's GitHub stats](https://github-readme-stats-7grk.vercel.app/api?username=vmsantos&show_icons=true&theme=radical)
-
-
-<!--
 **vmsantos/vmsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
