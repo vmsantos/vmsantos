@@ -1,5 +1,5 @@
 ![vmsantos's GitHub stats](https://github-readme-stats-ruby-omega.vercel.app/api?username=vmsantos&show_icons=true&theme=transparent&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats-ruby-omega.vercel.app/api/top-langs/?username=vmsantos)](https://github.com/vmsantos/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-omega.vercel.app/api/top-langs/?username=vmsantos&langs_count=10)](https://github.com/vmsantos/github-readme-stats)
 
 <!--
 
