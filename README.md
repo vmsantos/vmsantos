@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 ![vmsantos's GitHub stats](https://github-readme-stats-ruby-omega.vercel.app/api?username=vmsantos&show_icons=true&theme=radical&count_private=true)
 
 
