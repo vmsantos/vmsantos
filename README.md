@@ -1,16 +1,4 @@
-[![Top Langs](https://github-readme-stats-ruby-omega.vercel.app/api/top-langs/?username=vmsantos&langs_count=5&theme=transparent&count_private=true&include_all_commits=true)](https://github.com/vmsantos/github-readme-stats)
 <!--
-![vmsantos's GitHub stats](https://github-readme-stats-ruby-omega.vercel.app/api?username=vmsantos&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_rank=false)
-
-
-
-
-[![vmsantos's GitHub stats](https://github-readme-stats-ruby-omega.vercel.app/api?username=vmsantos)](https://github.com/vmsantos/github-readme-stats)
-
-![vmsantos's GitHub stats](https://github-readme-stats-ruby-omega.vercel.app/api?username=vmsantos&count_private=true)
-
-![vmsantos's GitHub stats](https://github-readme-stats-ruby-omega.vercel.app/api?username=vmsantos&show_icons=true)
-
 **vmsantos/vmsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
